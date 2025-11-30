@@ -29,12 +29,12 @@ My goal is to become a confident developer capable of writing clean, efficient c
 
 ---
 
-## 📘 Currently Working On
+## 🔭 Currently Working On
 
-* Enhancing my GitHub profile
-* Building mini Python projects
-* Strengthening backend fundamentals
-
+* Building small Python projects to strengthen logic and problem-solving
+* Creating Flask-based API mini apps and experimenting with backend workflows
+* Learning how to connect Python apps with MySQL databases
+* Improving my understanding of Git, GitHub, and clean project structure
 ---
 
 ## 📫 Connect With Me
